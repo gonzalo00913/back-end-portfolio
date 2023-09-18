@@ -7,7 +7,7 @@ let details = [
     descripcion:"Esta aplicación se centra en tres roles principales: administradores, pacientes y médicos. Los pacientes tienen la posibilidad de explorar la disponibilidad de médicos y seleccionar un horario para sus citas médicas. Los médicos, por otro lado, pueden crear y gestionar citas para que los pacientes puedan acceder a ellas. Además, los administradores tienen la responsabilidad de aprobar y gestionar el acceso de nuevos médicos a la plataforma, otorgándoles así el rol de médico dentro del sistema. En resumen, esta aplicación proporciona una plataforma eficiente y segura para la gestión de citas médicas, beneficiando tanto a los pacientes como a los profesionales de la salud.",
     estado:"Actualmente",
     tegnologias:"Node · express · typescript · typeORM · Postgresql",
-    link: "https://rickandmorty-1.netlify.app/",
+    link: "https://meddyplus.netlify.app/",
    
   },
   
